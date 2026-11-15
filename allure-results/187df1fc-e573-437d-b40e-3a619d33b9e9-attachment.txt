@@ -1,0 +1,3 @@
+[ 'ADIDAS ORIGINAL', 'ZARA COAT 3', 'iphone 13 pro' ]
+ | 6aeac84292a4341c4c024fff | 
+Order is placed 6aeac84292a4341c4c024fff

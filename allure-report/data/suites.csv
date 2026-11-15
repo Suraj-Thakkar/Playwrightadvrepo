@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2610","@Web Sample Test","","2026-11-04","passed","2026-11-04","","tests/fixturesDemo.spec.js","",""
+"","2632","@Web Table test","","2026-11-04","passed","2026-11-04","","tests/excelDemo.spec.js","",""
+"","4839","@Web Playwright modify new sample test","","2026-11-04","passed","2026-11-04","","clientappPO.spec.js","",""
+"","30095","@Web Playwright Events Hub","","2026-11-04","broken","2026-11-04","","tests/eventshub.spec.js","",""
+"","746","@Web Playwright automation test","","2026-11-04","passed","2026-11-04","","tests/labels.spec.js","",""
