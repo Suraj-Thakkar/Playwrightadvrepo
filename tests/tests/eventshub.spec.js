@@ -2,7 +2,7 @@ const { test, expect } = require('@playwright/test');
 test('@Web Playwright Events Hub', async ({ browser }) => {
     const context = await browser.newContext();
     const page = await context.newPage();
-    //eventhub test
+    //eventhub test is successfully passed
     await page.goto('https://eventhub.rahulshettyacademy.com/login');
     await page.getByPlaceholder('you@email.com').fill('thakkarsuraj641@gmail.com');
     await page.getByPlaceholder('••••••').fill('Suraj123@');
